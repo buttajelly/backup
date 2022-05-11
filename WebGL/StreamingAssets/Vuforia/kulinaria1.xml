@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sotoP" size="5.000000 3.332393" />
+    <ImageTarget name="tongsengP" size="5.000000 3.332393" />
+    <ImageTarget name="rawon" size="5.000000 3.332393" />
+    <ImageTarget name="2" size="5.000000 3.332393" />
+    <ImageTarget name="seblakP" size="5.000000 3.332393" />
+  </Tracking>
+</QCARConfig>
